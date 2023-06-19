@@ -1,0 +1,10 @@
+{"affirmation": [
+  {"tag": "yes",
+    "pattern": ["Yesss","You got that right","Yes","yess", "Yessir","Yepp","Yup","Yep","I want to"],
+  "response": ["Ok you may rant.","Fine, Rant.","Well, hope you're doing fine. Rant."]
+  },
+  {"tag": "No",
+    "pattern": ["No","noo","Noooo","Nah bro","Nahhh man","No da","Nooo","Nope","No daaa","No i dont want to"],
+    "responses": ["My bad","I'm sorry for that mistake"]
+  }
+]}
