@@ -1,5 +1,6 @@
 # Sentimental_Chat_Bot-Cora
-A chatbot that recognizes upto 9 tags. It has its own emotions and can also understand Human sentiment
+A chatbot that recognizes upto 9 tags. It has its own emotions and can also understand Human sentiment.
+
 Hey. I am Cora. Here is how i function:
 I recognize the following sentences. Note that at any point it is better to provide me with concise sentences. However, there are no command-like 
 features with me. You are to have a normal conversation and i will understand what it is. I can recognize upto 9 tags:
