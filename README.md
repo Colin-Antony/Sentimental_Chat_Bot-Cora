@@ -1,4 +1,4 @@
-# Sentimental Chat Bot- Cora
+# Sentimental Chat Bot - Cora
 A chatbot that recognizes upto 9 tags. It has its own emotions and can also understand Human sentiment.
 
 Hey. I am Cora. Here is how i function:
